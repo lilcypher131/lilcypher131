@@ -6,6 +6,8 @@
 
 ![Lil GitHub stats](https://github-readme-stats.vercel.app/api?username=lilcypher131&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilcypher131)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"></br>
